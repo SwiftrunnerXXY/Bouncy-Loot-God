@@ -1746,7 +1746,7 @@ loc_data_table = {
     "Challenge AridNexusBoneyard: Cult of the Vault":                      BL2ArchiData("AridNexusBoneyard", 26, tags=["reg-based"]),
     "Challenge WindshearWaste: Cult of the Vault":                         BL2ArchiData("WindshearWaste", 0, tags=["reg-based"]),
     "Challenge ThousandCuts: Slab UHF":                                    BL2ArchiData("ThousandCuts", 20, jump_z_req=630, tags=["reg-based"]),
-    "Challenge ThousandCuts: A Grave Matter":                              BL2ArchiData("ThousandCuts", 20, tags=["reg-based"]),
+    "Challenge ThousandCuts: A Grave Matter":                              BL2ArchiData("ThousandCuts", 20, req_items=["Melee"], tags=["reg-based"]),
     "Challenge ThousandCuts: Cult of the Vault":                           BL2ArchiData("ThousandCuts", 20, jump_z_req=500, tags=["reg-based"]),
     "Challenge Highlands: Winds of the Highlands":                         BL2ArchiData("Highlands", 16, jump_z_req=630, tags=["reg-based"]),
     "Challenge Highlands: Failure to Communicate":                         BL2ArchiData("Highlands", 16, tags=["reg-based"]),
