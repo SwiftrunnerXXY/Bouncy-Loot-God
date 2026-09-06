@@ -1533,9 +1533,7 @@ loc_data_table = {
                                                     BL2ArchiData("ThousandCuts", 24, story_req_regions=["WildlifeExploitationPreserve", "Opportunity"]),
                                                     BL2ArchiData("AridNexusBoneyard", 28),
                                                 ]),
-    "Generic: Constructor":                     BL2ArchiData("HighlandsOutwash", 16, alternates=[
-                                                    BL2ArchiData("HighlandsOutwash", 16),
-                                                    BL2ArchiData("Highlands", 16),
+    "Generic: Constructor":                     BL2ArchiData("Highlands", 16, alternates=[
                                                     BL2ArchiData("Opportunity", 20),
                                                     BL2ArchiData("ThousandCuts", 24, story_req_regions=["WildlifeExploitationPreserve", "Opportunity"]),
                                                 ]),
